@@ -1,5 +1,4 @@
 import React from 'react'
-import project1 from "../../../public/project1.jpg"
 
 import Image from 'next/image';
 

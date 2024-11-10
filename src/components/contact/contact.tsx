@@ -14,7 +14,7 @@ const Contct = () => {
           <h2 className="text-5xl text-purple-800 font-[Rye]">Contact Me</h2>
           <p className="text-[white] pt-2 text-[18px]">
             I would have to hear about your project and how I can help. Please
-            fill in the form, and I'll get back to you as soon as possible
+            fill in the form, and I&apos;ll get back to you as soon as possible
           </p>
         
         <div className="flex gap-3 items-center">

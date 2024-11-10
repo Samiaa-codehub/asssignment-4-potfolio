@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="hero-overlay flex flex-col lg:flex-row items-center lg:justify-between">
             <div className="hero-content text-neutral-content lg:max-w-md lg:text-left text-center">
               <div className="max-w-md">
-                <h1 className="mb-3 text-4xl md:text-5xl font-bold   text-[white]">Hello! I'm Samia</h1>
+                <h1 className="mb-3 text-4xl md:text-5xl font-bold   text-[white]">Hello! I&apos;m Samia</h1>
                 <br></br>
                 <h1 className="mb-3 text-3xl md:text-5xl text-purple-800  font-[Rye] butn1">
                   Front-End Developer
