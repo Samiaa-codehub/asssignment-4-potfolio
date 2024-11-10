@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  body{
+    background-color: burlywood;
+  
+    
+  }
+  .custom-img{
+    
+    border:2px solid white;
+    box-shadow: 5px 5px 5px 5px white;
+    border-radius: 8px;
+  }
+}
+
+@media (max-width: 786px){
+  nav a{
+    margin-left: 0.5em;
+    font-size: 0.9rem;
+  }
+}
+.butn{
+ filter:drop-shadow( 5px 2px 5px purple)
+}
+.butn1{
+  filter:drop-shadow(5px 5px 5px white)
+}
+
+
+
